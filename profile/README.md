@@ -1,8 +1,6 @@
 ![Ownboon I](https://user-images.githubusercontent.com/85481905/224555376-c8105ccc-6420-4270-b01a-076c52b1f262.png)
 
-# OwnBoon
-## Rise High With OwnBoon
-
+# About
 
 OwnBoon is a self-improvement and productivity platform that empowers individuals to reach their full potential. Our mission is to make the impossible possible, by providing users with the tools and resources they need to unlock their fears, rise above challenges, and achieve their goals. With a focus on wellness and fitness services, OwnBoon is committed to helping people become their best selves. As we grow, we aim to expand our team and continue delivering innovative solutions for personal growth and development.
 
