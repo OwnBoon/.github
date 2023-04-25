@@ -1,5 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-![Ownboon I](https://user-images.githubusercontent.com/85481905/224555376-c8105ccc-6420-4270-b01a-076c52b1f262.png)
+![smallbgwithsocial](https://user-images.githubusercontent.com/85481905/234211512-60bea65c-251f-42f2-98c6-c0d1c823a76c.png)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 # About
 
