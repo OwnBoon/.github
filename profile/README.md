@@ -1,6 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-![Uploading fullscreen Ownboon coverr.png…]()
+
+![fullscreen Ownboon coverr](https://github.com/OwnBoon/.github/assets/85481905/fdcbb872-b4f4-4d96-8421-0e266e5274f5)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 # About
