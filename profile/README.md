@@ -1,7 +1,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-![fullscreen Ownboon coverr](https://github.com/OwnBoon/.github/assets/85481905/fdcbb872-b4f4-4d96-8421-0e266e5274f5)
+![discord sv banner](https://github.com/OwnBoon/.github/assets/85481905/044818c8-2928-459f-aa18-44cf87ea5f77)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
