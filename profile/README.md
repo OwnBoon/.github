@@ -8,11 +8,21 @@
 
 
 
-# About
+# A Message to Our Developers
 
+Thank you to all the developers for your amazing work on developing the OwnBoon app. Your contributions were truly invaluable, and we appreciate every single moment we had at OwnBoon. It was a fun and exciting journey.
 
-OwnBoon is a self-improvement and productivity platform that empowers individuals to reach their full potential. Our mission is to make the impossible possible, by providing users with the tools and resources they need to unlock their fears, rise above challenges, and achieve their goals. With a focus on wellness and fitness services, OwnBoon is committed to helping people become their best selves. As we grow, we aim to expand our team and continue delivering innovative solutions for personal growth and development.
+Project Status
+As of December 20, 2023, OwnBoon is no longer in business. This repository has been made public as an archive for reference purposes.
 
+Reflections on Our Initial Challenges
+Lack of a clear main identity or unique feature for our product
+Slow development progress
+Insufficient in-depth research experience
+Project Hibernation
+The project entered a long pause or hibernation phase before the decision to close operations.
+
+We thank everyone who was part of this journey and contributed to the OwnBoon project.
 # Socials
 
  <div align="left"  class="icons-social" style="margin-left: 10px;">
